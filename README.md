@@ -61,16 +61,25 @@ Run the following in your Colab or local `.ipynb` to install dependencies and do
 3. Make sure **webcam access** is allowed (for local use)  
 4. **Press 'A'** to quit the webcam window
 
+##📸 Sample Output
+
+<p align="center">
+  <img src="assets/img1.JPG" width="45%" style="margin-right: 10px;" />
+  <img src="assets/img2.JPG" width="45%" />
+</p>
+<p align="center">
+  <img src="assets/img3.JPG" width="45%" style="margin-right: 10px;" />
+  <img src="assets/img4.JPG" width="45%" />
+</p>
+
+
 ## 🙌 Credits
 
 - [OpenCV’s Age & Gender Detection Tutorial](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
 - [Caffe Model Zoo – Pre-trained Models](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 
-##📸 Sample Output
 
-![Prediction Output](assets/img1.JPG)
-![Prediction Output](assets/img2.JPG)
-![Prediction Output](assets/img3.JPG)
-![Prediction Output](assets/img4.JPG)
+
+
 

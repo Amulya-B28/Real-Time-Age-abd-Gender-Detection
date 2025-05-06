@@ -69,3 +69,8 @@ Run the following in your Colab or local `.ipynb` to install dependencies and do
 
 ##📸 Sample Output
 
+![Prediction Output](assets/img1.JPG)
+![Prediction Output](assets/img2.JPG)
+![Prediction Output](assets/img3.JPG)
+![Prediction Output](assets/img4.JPG)
+

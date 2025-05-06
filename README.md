@@ -51,3 +51,21 @@ Run the following in your Colab or local `.ipynb` to install dependencies and do
 
 !wget https://www.dropbox.com/scl/fi/ynm8706p7mf1kvyj3ppf3/gender_net.caffemodel?rlkey=c4mjwtr4iuzpstwgeowr7tuk7&st=w4xpdcmf&dl=1 -O gender_net.caffemodel
 !wget https://raw.githubusercontent.com/spmallick/learnopencv/master/AgeGender/gender_deploy.prototxt -O gender_deploy.prototxt
+
+```
+
+## 🚀 How to Run the Project
+
+1. **Clone the repo** or download the `.ipynb` file to your system  
+2. **Run all cells** in order from top to bottom  
+3. Make sure **webcam access** is allowed (for local use)  
+4. **Press 'A'** to quit the webcam window
+
+## 🙌 Credits
+
+- [OpenCV’s Age & Gender Detection Tutorial](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
+- [Caffe Model Zoo – Pre-trained Models](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+
+
+##📸 Sample Output
+
